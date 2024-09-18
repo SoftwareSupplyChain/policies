@@ -21,7 +21,7 @@ A policy is a set of controls that define how an organization should operate to 
 
 **🔐 Ensure there is no clear secret (password, tokens, ...) in the repository**
 - Scope: Git repository
-- Statement: No cleartext secrets shall be stored or transmitted in any codebase, application, or configuration file.
+- Statement: No cleartext secrets shall be stored or transmitted in any file of a repository.
 - Rationale: Cleartext secrets pose a significant security risk as they can be easily compromised if a system is breached. Storing or secrets in plain text makes it possible for unauthorized individuals to access sensitive systems and data.
 - Controls:
     - Scan all your repository files **in the whole git history (every commits)** to search for clear secrets
