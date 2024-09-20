@@ -1,4 +1,4 @@
-# SSCP-1 | Plain text secret
+# SSCP-1 - Plain text secret
 
 **🔐 Ensure there is no plain text secret (password, tokens, ...) in the repository files**
 - Scope: Git repository files

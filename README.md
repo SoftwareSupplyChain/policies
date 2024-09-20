@@ -25,6 +25,15 @@ See examples in [📜 Policies list](#policies-list)
 
 - [SSCP-1 - Plain text secret](./policies/sscp-1.md)
 
+### ✍️ In draft
+
+The following policy ideas are open for contributions from everyone:
+
+- [SSCP-2 - Unsecured secret configuration](./policies/sscp-2.md)
+- [SSCP-3 - Untrusted image source](./policies/sscp-3.md)
+- [SSCP-4 - Hardcoded CI/CD actions](./policies/sscp-4.md)
+- [SSCP-5 - Outdated or mutable CI/CD actions](./policies/sscp-5.md)
+
 ## 🖊️ How to contribute
 
 *Work in progress*
