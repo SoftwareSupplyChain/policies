@@ -17,7 +17,8 @@ A policy is a set of controls that define how an organization should operate to 
 - A scope - Defines where the policy applies. It specifies the system, environment, or resource the policy targets
 - A statement - The main rule or directive that needs to be followed
 - A rationale - Explains why the policy is important
-- A set of actionable controls - Specifies the actions, checks, or methods required to enforce the policy (no tools) with example(s) of a policy breach
+- A set of actionable controls - Specifies the actions, checks, or methods required to enforce the policy (no tools)
+  - Provide example(s) of a policy breach which does not respect the described control
 
 See examples in [📜 Policies list](#policies-list)
 
